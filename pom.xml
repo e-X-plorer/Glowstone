@@ -208,7 +208,7 @@
   <build>
     <finalName>glowstone</finalName>
 
-    <directory>${project.basedir}/target</directory>
+    <directory>${project.basedir}/../target</directory>
 
     <resources>
       <resource>
