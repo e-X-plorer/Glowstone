@@ -311,6 +311,7 @@ public class GlowServer implements Server {
      */
     private final EntityIdManager entityIdManager = new EntityIdManager();
     /**
+     * Love you
      * The world this server is managing.
      */
     private final WorldScheduler worlds = new WorldScheduler();
