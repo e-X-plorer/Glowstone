@@ -161,6 +161,7 @@ public class GlowWorld implements World {
     @Getter
     private final WorldStorageProvider storage;
     /**
+     * PeePee PooPoo
      * The world's UUID.
      */
     private final UUID uid;
