@@ -81,6 +81,7 @@ public final class Explosion {
     private float yield = 0.3f;
 
     /**
+     * NYA KAWAII
      * Creates a new explosion.
      *
      * @param source The entity causing this explosion
